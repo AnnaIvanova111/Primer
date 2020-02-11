@@ -1,0 +1,6 @@
+Application started. Press Ctrl+C to shut down.
+Processing request /
+Processing request /
+Hosting environment: Development
+Content root path: C:\Users\User\source\repos\Primer6\Primer6
+Processing request /favicon.ico
